@@ -625,7 +625,7 @@
         "id": 8,
         "name": "Veggie Paradise",
         "price": "169.95",
-        "menu_description": "Veggie Paradise: A veggie-packed delight with a tomato base, bursting with colorful and fresh vegetables.",
+        "menu_description": " A colorful medley of fresh vegetables and tangy tomato sauce, topped with a blanket of melted cheese, creating a symphony of flavors and textures in every bite. ",
         "classifications": {
           "vegetarian": true
         },
