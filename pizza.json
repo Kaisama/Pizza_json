@@ -5,9 +5,10 @@
         "name": "Veg Deluxe",
         "price": "299.50",
         "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
+             "height": "55px,
         "classifications": {
           "vegetarian": true
-         "height": "55px"
+         "
         },
         "assets": {
           "menu": [
