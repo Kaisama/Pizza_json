@@ -530,7 +530,7 @@
         "id": 7,
         "name": "Margherita",
         "price": "199.95",
-        "menu_description": "Margherita pizza: Tomato, mozzarella, basil, and olive oil – a timeless Italian classic.",
+        "menu_description": "A classic Italian favorite, showcasing a harmonious trio of fresh tomato sauce, creamy mozzarella cheese, and aromatic basil leaves, all baked to perfection on a crisp, thin crust.",
         "classifications": {
           "vegetarian": true
         },
