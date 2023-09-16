@@ -4,7 +4,7 @@
         "id": 1,
         "name": "Veg Deluxe",
         "price": "299.50",
-        "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
+        "menu_description": "The Veg Deluxe pizza is a colorful and flavorful vegetarian option, featuring a tomato sauce base, a medley of fresh vegetables, and a cheesy finish on a classic crust.",
         "classifications": {
           "vegetarian": true
          
@@ -93,7 +93,7 @@
         "id": 2,
         "name": "Vegan Veggie",
         "price": "179.99",
-        "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
+        "menu_description": "The Vegan Veggie pizza is a plant-based delight, showcasing a tomato sauce-covered crust piled high with an assortment of fresh vegetables, all without any animal products.",
         "classifications": {
           "vegetarian": true
         },
@@ -181,7 +181,7 @@
         "id": 3,
         "name": "Vegan Pizza",
         "price": "239.95",
-        "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
+        "menu_description": "The Vegan Pizza is a cruelty-free delight, featuring a tomato sauce base, an assortment of veggies, and dairy-free cheese on a plant-based crust.",
         "classifications": {
           "vegetarian": true
         },
@@ -268,7 +268,7 @@
         "id": 4,
         "name": "Blazing Onion & Paprika",
         "price": "179.99",
-        "menu_description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce.",
+        "menu_description": "Blazing Onion & Paprika is a fiery and smoky flavor duo, perfect for adding a spicy and bold kick to your dishes.",
         "classifications": {
           "vegetarian": true
         },
@@ -353,9 +353,9 @@
       },
          {
         "id": 5,
-        "name": "Farmhouse",
+        "name": "Farmhouse Veggie",
         "price": "179.99",
-        "menu_description": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
+        "menu_description": "The Farmhouse pizza is a hearty classic with tomato sauce, bacon or ham, mushrooms, and onions.",
         "classifications": {
           "vegetarian": true
         },
@@ -443,7 +443,7 @@
         "id": 6,
         "name": "Peppy Paneer",
         "price": "179.99",
-        "menu_description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika",
+        "menu_description": "Peppy Paneer is a spicy and flavorful pizza topping with marinated paneer cheese, bell peppers, and onions, perfect for those who love Indian-inspired flavors.",
         "classifications": {
           "vegetarian": true
         },
@@ -530,7 +530,7 @@
         "id": 7,
         "name": "Margherita",
         "price": "199.95",
-        "menu_description": "Classic delight with 100% real mozzarella cheese",
+        "menu_description": "Margherita pizza: Tomato, mozzarella, basil, and olive oil – a timeless Italian classic.",
         "classifications": {
           "vegetarian": true
         },
@@ -625,7 +625,7 @@
         "id": 8,
         "name": "Veggie Paradise",
         "price": "169.95",
-        "menu_description": "The awesome foursome! Golden corn, black olives, capsicum",
+        "menu_description": "Veggie Paradise: A veggie-packed delight with a tomato base, bursting with colorful and fresh vegetables.",
         "classifications": {
           "vegetarian": true
         },
@@ -680,7 +680,7 @@
         "id": 17,
         "name": "Mexican Fiesta",
         "price": "18.95",
-        "menu_description": "Flavourful mix of red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn and 100% mozzarella Cheese with a signature spice sprinkle & our flavourful pan sauce.",
+        "menu_description": "Mexican Fiesta pizza: A spicy and festive blend of flavors with salsa, seasoned protein, black beans, and jalapeños on a tomato base.",
         "classifications": {
           "vegetarian": true
         },
