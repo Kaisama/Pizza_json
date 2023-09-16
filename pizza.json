@@ -29,6 +29,34 @@
               "url": "https://assets.zumepizza.com/public/7650vx0h.png"
             }
           },
+             {
+        "id": 11,
+        "name": "Veggie Zupreme",
+        "price": "19.95",
+        "menu_description": "The freshest, locally sourced veggies",
+        "classifications": {
+          "vegetarian": true
+        },
+        "assets": {
+          "menu": [
+            {
+              "url": "https://assets.zumepizza.com/public/nfjqscxz.jpg"
+            }
+          ],
+          "product_details_page": [
+            {
+              "url": "https://media.istockphoto.com/id/979167732/photo/pepperoni-pizza-on-black-concrete-background.jpg?s=612x612&w=0&k=20&c=uk3Qujzr09SUhXfZQ3m2nfHIpZmLJ6MwpcBriDbvPVY="
+            }
+          ]
+        },
+        "toppings": [
+          {
+            "id": 121,
+            "name": "Asiago",
+            "description": "CULTURED MILK, ENZYMES, SALT",
+            "asset": {
+              "url": "https://assets.zumepizza.com/public/gnhvc83u.png"
+            },
           {
             "id": 6,
             "name": "Basil",
